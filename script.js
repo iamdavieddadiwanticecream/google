@@ -1,5 +1,5 @@
 let score = 0;
-let timeLeft = 10;
+let timeLeft = 99e99;
 let gameInterval;
 let timerInterval;
 
